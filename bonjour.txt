@@ -1,4 +1,8 @@
 bonjour skander
 fdfffdff
 fggfgfgfg
+<<<<<<< HEAD
 fffgfgfgg
+=======
+fereereerer
+>>>>>>> newbranch
